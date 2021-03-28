@@ -10,10 +10,13 @@
 "BOTS_SUCCESS_STREAK_ABBREVIATION" = "streep";
 "COMMON_CANCEL" = "annuleren";
 "COMMON_DELETE" = "Delete";
+"COMMON_DONE" = "Done";
+"COMMON_EDIT" = "Edit";
 "COMMON_NOT_AVAILABLE" = "NA";
 "COMMON_OK" = "OK";
 "COMMON_PULL_TO_REFRESH" = "Trek om te vernieuwen";
 "COMMON_REFRESHING" = "Verfrissend…";
+"COMMON_SAVE" = "Save";
 "COMMON_UPDATED" = "bijgewerkt";
 "CREDENTIAL_OPTIONAL" = "<Optioneel>";
 "CREDENTIAL_PASSWORD" = "Wachtwoord";

@@ -10,10 +10,13 @@
 "BOTS_SUCCESS_STREAK_ABBREVIATION" = "줄";
 "COMMON_CANCEL" = "취소";
 "COMMON_DELETE" = "지우다";
+"COMMON_DONE" = "Done";
+"COMMON_EDIT" = "Edit";
 "COMMON_NOT_AVAILABLE" = "NA";
 "COMMON_OK" = "확인";
 "COMMON_PULL_TO_REFRESH" = "새로 고침을 당겨";
-"COMMON_REFRESHING" = "새로 고침 ...";
+"COMMON_REFRESHING" = "새로 고침…";
+"COMMON_SAVE" = "Save";
 "COMMON_UPDATED" = "업데이트";
 "CREDENTIAL_OPTIONAL" = "<선택>";
 "CREDENTIAL_PASSWORD" = "암호";

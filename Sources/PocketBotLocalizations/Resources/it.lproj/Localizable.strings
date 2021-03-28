@@ -10,10 +10,13 @@
 "BOTS_SUCCESS_STREAK_ABBREVIATION" = "striscia";
 "COMMON_CANCEL" = "Annulla";
 "COMMON_DELETE" = "Elimina";
+"COMMON_DONE" = "Done";
+"COMMON_EDIT" = "Edit";
 "COMMON_NOT_AVAILABLE" = "N / A";
 "COMMON_OK" = "ok";
 "COMMON_PULL_TO_REFRESH" = "Tirare per Refresh";
 "COMMON_REFRESHING" = "Rinfrescante…";
+"COMMON_SAVE" = "Save";
 "COMMON_UPDATED" = "aggiornato";
 "CREDENTIAL_OPTIONAL" = "<Opzionale>";
 "CREDENTIAL_PASSWORD" = "Parola d'ordine";

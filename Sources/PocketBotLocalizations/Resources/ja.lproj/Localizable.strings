@@ -10,10 +10,13 @@
 "BOTS_SUCCESS_STREAK_ABBREVIATION" = "ストリーク";
 "COMMON_CANCEL" = "キャンセル";
 "COMMON_DELETE" = "[削除]";
+"COMMON_DONE" = "Done";
+"COMMON_EDIT" = "Edit";
 "COMMON_NOT_AVAILABLE" = "NA";
 "COMMON_OK" = "OK";
 "COMMON_PULL_TO_REFRESH" = "更新にプル";
 "COMMON_REFRESHING" = "さわやか...";
+"COMMON_SAVE" = "Save";
 "COMMON_UPDATED" = "更新しました";
 "CREDENTIAL_OPTIONAL" = "<オプション>";
 "CREDENTIAL_PASSWORD" = "パスワード";

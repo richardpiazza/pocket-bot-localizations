@@ -10,9 +10,12 @@ public extension Strings {
     enum Common: String, ExpressibleByLocalizedString {
         case cancel = "Cancel"
         case delete = "Delete"
+        case done = "Done"
+        case edit = "Edit"
         case ok = "OK"
         case pullToRefresh = "Pull to Refresh"
         case refreshing = "Refreshing…"
+        case save = "Save"
         case updated = "Updated"
         
         public var prefix: String? { "common" }

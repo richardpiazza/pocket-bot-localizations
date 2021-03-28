@@ -10,10 +10,13 @@
 "BOTS_SUCCESS_STREAK_ABBREVIATION" = "жилка";
 "COMMON_CANCEL" = "отменить";
 "COMMON_DELETE" = "удалять";
+"COMMON_DONE" = "Done";
+"COMMON_EDIT" = "Edit";
 "COMMON_NOT_AVAILABLE" = "Не Доступно";
 "COMMON_OK" = "Хорошо";
 "COMMON_PULL_TO_REFRESH" = "Прицепные к Refresh";
-"COMMON_REFRESHING" = "Обновление ...";
+"COMMON_REFRESHING" = "Обновление…";
+"COMMON_SAVE" = "Save";
 "COMMON_UPDATED" = "обновленный";
 "CREDENTIAL_OPTIONAL" = "<Опция>";
 "CREDENTIAL_PASSWORD" = "пароль";
