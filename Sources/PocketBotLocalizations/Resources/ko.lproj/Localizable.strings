@@ -47,7 +47,7 @@
 "SERVER_SERVER_APP" = "Server.app";
 "SERVER_XCODE_APP" = "Xcode.app";
 "SETUP_AUTH_FAILED_MESSAGE" = "서버 '% 1'@ '제공된 자격 증명을 거부했다.";
-"SETUP_AUTH_FAILED_MESSAGE_ERROR" = "서버 '% 1'@ '제공된 자격 증명을 거부했다. % @";
+"SETUP_AUTH_FAILED_MESSAGE_ERROR" = "서버 '% 1'@ '제공된 자격 증명을 거부했다. %@";
 "SETUP_AUTH_FAILED_TITLE" = "인증 실패";
 "SETUP_CONNECT" = "잇다";
 "SETUP_CONNECTING" = "연결 중 ...";
@@ -55,13 +55,13 @@
 "SETUP_CREATE_FAILED_TITLE" = "만들기 실패";
 "SETUP_DELETE_PROMPT" = "당신은 서버 삭제 하시겠습니까 '%를 @'?";
 "SETUP_DELETE_FAILED_MESSAGE" = "서버 '% 1'@ '을 삭제할 수 없습니다.";
-"SETUP_DELETE_FAILED_MESSAGE_ERROR" = "서버 '% 1'@ '을 삭제할 수 없습니다. % @";
+"SETUP_DELETE_FAILED_MESSAGE_ERROR" = "서버 '% 1'@ '을 삭제할 수 없습니다. %@";
 "SETUP_DELETE_FAILED_TITLE" = "삭제 실패";
 "SETUP_PING_FAILED_MESSAGE" = "서버 '% 1'@ '핑 할 수 없습니다.";
-"SETUP_PING_FAILED_MESSAGE_ERROR" = "서버 '% 1'@ '핑 할 수 없습니다. % @";
+"SETUP_PING_FAILED_MESSAGE_ERROR" = "서버 '% 1'@ '핑 할 수 없습니다. %@";
 "SETUP_PING_FAILED_TITLE" = "핑 실패";
 "SETUP_SAVE_FAILED_MESSAGE" = "서버 '% 1'@ '를 저장할 수 없습니다.";
-"SETUP_SAVE_FAILED_MESSAGE_ERROR" = "서버 '% 1'@ '를 저장할 수 없습니다. % @";
+"SETUP_SAVE_FAILED_MESSAGE_ERROR" = "서버 '% 1'@ '를 저장할 수 없습니다. %@";
 "SETUP_SAVE_FAILED_TITLE" = "저장 실패";
 "SETUP_SAVING" = "절약…";
 "SETUP_SERVER" = "섬기는 사람";
