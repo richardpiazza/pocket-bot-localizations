@@ -23,6 +23,8 @@
 "CREDENTIAL_USERNAME" = "用戶名";
 "GIT_BRANCH" = "科";
 "GIT_COMMIT" = "承諾";
+"GIT_CONTRIBUTOR" = "貢獻者";
+"GIT_DATE" = "日期";
 "GIT_FQDN" = "完全合格的域名";
 "GIT_REPOSITORIES" = "庫";
 "HOME_APP_STORE" = "應用商店";

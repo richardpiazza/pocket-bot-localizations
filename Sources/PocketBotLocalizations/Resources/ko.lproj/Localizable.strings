@@ -23,6 +23,8 @@
 "CREDENTIAL_USERNAME" = "사용자 이름";
 "GIT_BRANCH" = "분기";
 "GIT_COMMIT" = "범하다";
+"GIT_CONTRIBUTOR" = "기부자";
+"GIT_DATE" = "날짜";
 "GIT_FQDN" = "정규화 된 도메인 이름";
 "GIT_REPOSITORIES" = "저장소";
 "HOME_APP_STORE" = "앱 스토어";

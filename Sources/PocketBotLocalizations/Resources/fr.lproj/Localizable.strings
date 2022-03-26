@@ -23,6 +23,8 @@
 "CREDENTIAL_USERNAME" = "Nom d'utilisateur";
 "GIT_BRANCH" = "Branche";
 "GIT_COMMIT" = "Commettre";
+"GIT_CONTRIBUTOR" = "Donateur";
+"GIT_DATE" = "Date";
 "GIT_FQDN" = "Nom de domaine complet";
 "GIT_REPOSITORIES" = "référentiels";
 "HOME_APP_STORE" = "Magasin d'applications";

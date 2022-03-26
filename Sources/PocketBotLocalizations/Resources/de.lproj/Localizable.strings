@@ -23,6 +23,8 @@
 "CREDENTIAL_USERNAME" = "Nutzername";
 "GIT_BRANCH" = "Ast";
 "GIT_COMMIT" = "Verpflichten";
+"GIT_CONTRIBUTOR" = "Mitwirkender";
+"GIT_DATE" = "Datum";
 "GIT_FQDN" = "Fully Qualified Domain Name";
 "GIT_REPOSITORIES" = "Aufbewahrungsort";
 "HOME_APP_STORE" = "Appstore";

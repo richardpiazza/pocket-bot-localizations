@@ -23,6 +23,8 @@
 "CREDENTIAL_USERNAME" = "ユーザー名";
 "GIT_BRANCH" = "ブランチ";
 "GIT_COMMIT" = "コミット";
+"GIT_CONTRIBUTOR" = "寄稿者";
+"GIT_DATE" = "日にち";
 "GIT_FQDN" = "完全修飾ドメイン名";
 "GIT_REPOSITORIES" = "リポジトリ";
 "HOME_APP_STORE" = "App Storeで";

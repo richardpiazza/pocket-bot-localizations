@@ -23,6 +23,8 @@
 "CREDENTIAL_USERNAME" = "имя пользователя";
 "GIT_BRANCH" = "Ветка";
 "GIT_COMMIT" = "совершить";
+"GIT_CONTRIBUTOR" = "Автор";
+"GIT_DATE" = "Дата";
 "GIT_FQDN" = "Полное доменное имя";
 "GIT_REPOSITORIES" = "Хранилища";
 "HOME_APP_STORE" = "Магазин приложений";

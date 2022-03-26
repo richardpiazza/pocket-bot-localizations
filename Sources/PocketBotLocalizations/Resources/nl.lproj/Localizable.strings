@@ -23,6 +23,8 @@
 "CREDENTIAL_USERNAME" = "Gebruikersnaam";
 "GIT_BRANCH" = "Afdeling";
 "GIT_COMMIT" = "plegen";
+"GIT_CONTRIBUTOR" = "Bijdrager";
+"GIT_DATE" = "Datum";
 "GIT_FQDN" = "Volledig gekwalificeerde domein naam";
 "GIT_REPOSITORIES" = "Vindplaatsen";
 "HOME_APP_STORE" = "App Winkel";
