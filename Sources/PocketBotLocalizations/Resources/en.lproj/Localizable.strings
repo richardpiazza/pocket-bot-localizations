@@ -5,13 +5,16 @@
 "BOTS_IN_PROGRESS" = "In-Progress";
 "BOTS_MINUTES" = "minutes";
 "BOTS_MINUTES_ABBREVIATION" = "min(s)";
+"BOTS_NO_INTEGRATIONS" = "No Integrations";
 "BOTS_SUCCESS_RATE" = "Success Rate";
 "BOTS_SUCCESS_STREAK" = "Success Streak";
 "BOTS_SUCCESS_STREAK_ABBREVIATION" = "Streak";
 "COMMON_CANCEL" = "Cancel";
+"COMMON_CONTACT" = "Contact";
 "COMMON_DELETE" = "Delete";
 "COMMON_DONE" = "Done";
 "COMMON_EDIT" = "Edit";
+"COMMON_LOGS" = "Logs";
 "COMMON_NOT_AVAILABLE" = "NA";
 "COMMON_OK" = "OK";
 "COMMON_PULL_TO_REFRESH" = "Pull to Refresh";
@@ -39,7 +42,9 @@
 "INTEGRATIONS_INTEGRATION_IN_PROGRESS" = "An integration is already in progress.";
 "INTEGRATIONS_ISSUES" = "Issues";
 "INTEGRATIONS_QUEUED" = "Queued";
+"INTEGRATIONS_RESULT" = "Result";
 "INTEGRATIONS_STARTED" = "Started";
+"INTEGRATIONS_STEP" = "Step";
 "INTEGRATIONS_TESTS" = "Tests";
 "INTEGRATIONS_WARNINGS" = "Warnings";
 "NOTIFICATIONS_MESSAGE" = "Your bots have new integrations.";
@@ -48,6 +53,7 @@
 "SERVER_MAC_O_S" = "macOS";
 "SERVER_SERVER_APP" = "Server.app";
 "SERVER_XCODE_APP" = "Xcode.app";
+"SETUP_ADD_SERVER" = "Add Server";
 "SETUP_AUTH_FAILED_MESSAGE" = "The server '%@' rejected the provided credentials.";
 "SETUP_AUTH_FAILED_MESSAGE_ERROR" = "The server '%@' rejected the provided credentials. %@";
 "SETUP_AUTH_FAILED_TITLE" = "Authentication Failed";
