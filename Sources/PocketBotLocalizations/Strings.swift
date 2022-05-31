@@ -9,9 +9,11 @@ public enum Strings {
 public extension Strings {
     enum Common: String, ExpressibleByLocalizedString {
         case cancel = "Cancel"
+        case contact = "Contact"
         case delete = "Delete"
         case done = "Done"
         case edit = "Edit"
+        case logs = "Logs"
         case ok = "OK"
         case pullToRefresh = "Pull to Refresh"
         case refreshing = "Refreshing…"
@@ -27,6 +29,7 @@ public extension Strings {
 // MARK: - Setup
 public extension Strings {
     enum Setup: String, ExpressibleByLocalizedString {
+        case addServer = "Add Server"
         case authFailedMessage = "The server '%@' rejected the provided credentials."
         case authFailedMessageError = "The server '%@' rejected the provided credentials. %@."
         case authFailedTitle = "Authentication Failed"
@@ -61,6 +64,7 @@ public extension Strings {
         case averageDuration = "Average Duration"
         case lastIntegration = "Last Integration"
         case minutes = "minutes"
+        case noIntegrations = "No Integrations"
         case successRate = "Success Rate"
         
         public var prefix: String? { "bots" }
@@ -78,7 +82,9 @@ public extension Strings {
         case integrationInProgress = "An integration is already in progress."
         case issues = "Issues"
         case queued = "Queued"
+        case result = "Result"
         case started = "Started"
+        case step = "Step"
         case tests = "Tests"
         case warnings = "Warnings"
         
